@@ -645,7 +645,7 @@ function HomeUI() {
         </Box>
 
         {/* Footer */}
-        <Typography color="#999999" ml={10} variant="body2" textAlign="start">
+        <Typography color="#999999" ml={20} variant="body2" textAlign="start">
           © 2025 Dusit Pakdeekunakorn
         </Typography>
       </Box>
